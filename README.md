@@ -1,2 +1,3 @@
 # atr-119-session-5
-Jupyter notebook
+Last .py scripts: using numpy
+and Jupyter notebook
